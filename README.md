@@ -1,3 +1,4 @@
-# Example InSpec Profile
+# InspecProfile
+Cloud Computing Auditing
 
-This example shows the implementation of an InSpec profile.
+We implemented an Inspec Profile by installing Inspec directly on a virtual machine hosted in Azure. We used the Inspec CLI to configure the testing. The paper describes how we proceeded.
